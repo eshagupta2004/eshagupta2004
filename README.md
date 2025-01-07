@@ -1,6 +1,5 @@
  <h1 align="left">Hey 👋 I'm Esha Gupta</h1>
 <br>
-###
 
 <p align="left"></p>
 
