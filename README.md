@@ -1,5 +1,5 @@
  <h1 align="left">Hey 👋 I'm Esha Gupta</h1>
-
+<br>
 ###
 
 <p align="left"></p>
@@ -11,7 +11,6 @@
 ###
 
 <p align="left">📚 I love reading books<br>🎯 Reach me at : eshagupta2004@gmail.com</p>
-<br>
 <br>
 <br>
 
@@ -26,8 +25,8 @@
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=25NamanGupta&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
-<td><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=25NamanGupta&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=eshagupta2004&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
+<td><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=eshagupta2004&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
 </td>
 </tr>
 </table>
